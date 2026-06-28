@@ -1,6 +1,6 @@
 cask "quick-study" do
-  version "0.4.0"
-  sha256 "84a316ca8cf41b3b0623f2c201846088cf7f7e897d2a8cc618c881c86544217f"
+  version "0.5.0"
+  sha256 "b087b467e6d91d924619602d9404275ed6b75b0867efa1836dac2bd7ee09d2ed"
 
   url "https://github.com/Abbabon/quick-study/releases/download/v#{version}/QuickStudy-#{version}.zip"
   name "Quick Study"
